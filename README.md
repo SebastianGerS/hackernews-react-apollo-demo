@@ -7,11 +7,11 @@ This demo project was created following https://www.howtographql.com/graphql-js 
 ## Setup
 
 ## server (in /server)
-`yarn`
-`npx prisma migrate dev`
-`mpx prisma generate`
+`yarn`\
+`npx prisma migrate dev`\
+`mpx prisma generate`\
 `yarn start`
 
 ## client (in /client)
-`yarn`
-`yarn start`
+`yarn`\
+`yarn start`  
